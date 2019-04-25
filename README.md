@@ -18,3 +18,6 @@ $ source (path)/DB_clone.sql
 In the file of ig-clone-data.sql, we insert thousands of data into our Instagram database to try to manipulate data.  
 However, it's still relatively very small compared to the real database of Instagram. But it's enough to help try manipulating 
 data.
+
+$ source (path)/ig-clone-data.sql
+
