@@ -6,9 +6,9 @@ It's aimed at helping understand the relationship between different table and ho
 Personally, I implemented it on amazon's AWS cloud 9, which would make it much easier to use mysql if you are not familiar with it.
 The command to use mysql in cloud 9 looks like this:
 
-$ mysql-ctl start
-$ mysql-ctl cli
-$ mysql-ctl stop
+$ mysql-ctl start  
+$ mysql-ctl cli  
+$ mysql-ctl stop   
 
 After starting mysql, use this command to load the file:
 
