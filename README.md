@@ -20,4 +20,3 @@ However, it's still relatively very small compared to the real database of Insta
 data.
 
 $ source (path)/ig-clone-data.sql
-
